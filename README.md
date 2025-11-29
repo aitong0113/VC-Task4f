@@ -37,12 +37,11 @@
 
 🧱 使用技術
 
-項目	說明
-HTML5	網頁架構與語意化標籤
-CSS3	Flex / Grid、毛玻璃效果、北歐色系設計
-JavaScript	取得 API、資料渲染、前端邏輯
-Zeabur	部署後端天氣 API
-自建 API Endpoint	https://vc-task4.zeabur.app/api/weather/Taichung
+HTML5 ： 網頁架構與語意化標籤
+CSS3：	Flex / Grid、毛玻璃效果、北歐色系設計
+JavaScript：	取得 API、資料渲染、前端邏輯
+Zeabur：	部署後端天氣 API
+自建 API Endpoint：	https://vc-task4.zeabur.app/api/weather/Taichung
 
 
 ⸻
@@ -71,6 +70,7 @@ Zeabur	部署後端天氣 API
 
 後端回傳資料格式如下：
 
+```
 {
   "success": true,
   "data": {
@@ -85,17 +85,18 @@ Zeabur	部署後端天氣 API
     ]
   }
 }
-
+```
 
 ⸻
 
 📁 專案結構
 
+```
 /
 │── index.html        # 主頁面
 │── icon-v2.png       # Favicon
 │── README.md         # 專案說明文件
-
+```
 
 ⸻
 
