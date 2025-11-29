@@ -124,9 +124,19 @@ Zeabur：	部署後端天氣 API
 
 ⸻
 
-👩🏻‍💻 開發者
+⸻ ⸻
 
-林艾彤 Abbie Lin（
-前端工程師養成中｜喜歡心理學、插畫與溫柔的介面風格
+🌐 Demo 網址（GitHub Pages）
+
+👉 https://aitong0113.github.io/VC-Task4f/
 
 ⸻
+
+✍️ 作者（Author）
+
+Abbie Lin ｜ Frontend & UI/UX Designer
+
+跨心理 × 設計 × 前端的創作者。
+
+💌 GitHub: https://github.com/aitong0113
+
